@@ -5,6 +5,8 @@
 Computer Engineer with a strong background in embedded software, Linux-based O.S., Continuous Integration Testing (CIT),
 and Agile development. Experienced OOP developer that follows well-known Software Design Patterns to optimize existing solutions or solve novel problems. Known to be a strong team-player, good communicator and accustomed to driving cross-team discussions.
 
+</div>
+
 ## Contact
 
 - **LinkedIn**: [https://www.linkedin.com/in/ruth-ulloa](https://www.linkedin.com/in/ruth-ulloa)
@@ -81,4 +83,3 @@ First place winner of this interdisciplinary worldwide competition with a comput
 [Solution video [Spanish]](https://www.youtube.com/watch?v=Fw7ehtc01qU&feature=youtu.be)  
 [Publication at Tecnológico de Costa Rica [Spanish]](https://www.tec.ac.cr/hoyeneltec/2018/05/28estudiantes-aplicaron-creatividad-conocimiento-proponer-soluciones-empresariales)
 
-</div>
