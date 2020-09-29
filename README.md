@@ -41,7 +41,7 @@ supporting to increase team pace in the performing phase.
 - **Languages:** Spanish (Native proficiency); English(Professional-working profiency)  
 
 # Certifications
-- [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/account/accomplishments/verify/X3VCUEV54UYY), The UnUniversity of Chicago, September 2020
+- [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/account/accomplishments/verify/X3VCUEV54UYY), The University of Chicago, September 2020
 - [Introduction to Psychology](https://www.coursera.org/account/accomplishments/verify/C8RV97NGDR8S), Yale University, August 2020
 
 # Volunteer Experience
@@ -55,6 +55,6 @@ Guide, monitor and mentor adolescent women to develop a mobile application proto
 # Honors and Awards
 - Fisrt place winner, [Les 24h de l'innovation](http://24h-innovation.org/en/), May 2018  
 Interdisciplinary worldwide competition. First place winner with a computational
-solution using a centralized system database and artificial intelligence algorithms to evidence tax evasion in Costa Rica.
+solution using a centralized system database and artificial intelligence algorithms to evidence tax evasion in Costa Rica.  
 [Solution video [Spanish]](https://www.youtube.com/watch?v=Fw7ehtc01qU&feature=youtu.be)  
 [Publication at Tecnológico de Costa Rica [Spanish]](https://www.tec.ac.cr/hoyeneltec/2018/05/28estudiantes-aplicaron-creatividad-conocimiento-proponer-soluciones-empresariales)
