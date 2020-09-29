@@ -1,11 +1,8 @@
 ## Profile
 
-<div style="text-align: justify ">
-
 Computer Engineer with a strong background in embedded software, Linux-based O.S., Continuous Integration Testing (CIT),
 and Agile development. Experienced OOP developer that follows well-known Software Design Patterns to optimize existing solutions or solve novel problems. Known to be a strong team-player, good communicator and accustomed to driving cross-team discussions.
 
-</div>
 
 ## Contact
 
