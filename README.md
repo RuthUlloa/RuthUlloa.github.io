@@ -43,9 +43,7 @@ root-cause software bugs.
 
 **SCRUM Master**  
 
-- Key contributor forming successfully a new team. Helping in critical phases
-as forming and storming. Bolstering team strengths in the norming phase and
-supporting to increase team pace in the performing phase.
+- Key contributor forming successfully a new team. Helping in critical phases as forming and storming, as result, the team was able to performance and produce quality results in a few weeks.
 
 ## Skills
 
@@ -69,7 +67,7 @@ Overall level: **B2**, Overal score: **123**
 - **Teaching assistant, Tecnológico de Costa Rica**, San José, Costa Rica, July 2018 - June 2019  
 Co-write project statements, evaluate, monitor, and mentor student academic
 progress in the following courses:
-  - Object-Oriented Programming (Yava)
+  - Object-Oriented Programming (Java)
   - Data Structures (C++)
   - Programming Introduction (Python)
 
@@ -79,4 +77,3 @@ progress in the following courses:
 First place winner of this interdisciplinary worldwide competition with a computational solution prototipe using a centralized system database and artificial intelligence algorithms to evidence tax evasion in Costa Rica.  
 [Solution video [Spanish]](https://www.youtube.com/watch?v=Fw7ehtc01qU&feature=youtu.be)  
 [Publication at Tecnológico de Costa Rica [Spanish]](https://www.tec.ac.cr/hoyeneltec/2018/05/28estudiantes-aplicaron-creatividad-conocimiento-proponer-soluciones-empresariales)
-
