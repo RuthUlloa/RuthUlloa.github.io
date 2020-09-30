@@ -1,4 +1,4 @@
-## Profile
+# Ruth Ulloa
 
 Computer Engineer with a strong background in embedded software, Linux-based O.S., Continuous Integration Testing (CIT),
 and Agile development. Experienced OOP developer that follows well-known Software Design Patterns to optimize existing solutions or solve novel problems. Known to be a strong team-player, good communicator and accustomed to driving cross-team discussions.
@@ -73,7 +73,7 @@ progress in the following courses:
 
 ## Honors and Awards
 
-- Fisrt place winner, [Les 24h de l'innovation](http://24h-innovation.org/en/), May 2018  
+- First place winner, [Les 24h de l'innovation](http://24h-innovation.org/en/), May 2018  
 First place winner of this interdisciplinary worldwide competition with a computational solution prototipe using a centralized system database and artificial intelligence algorithms to evidence tax evasion in Costa Rica.  
 [Solution video [Spanish]](https://www.youtube.com/watch?v=Fw7ehtc01qU&feature=youtu.be)  
 [Publication at Tecnológico de Costa Rica [Spanish]](https://www.tec.ac.cr/hoyeneltec/2018/05/28estudiantes-aplicaron-creatividad-conocimiento-proponer-soluciones-empresariales)
