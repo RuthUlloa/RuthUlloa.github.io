@@ -7,7 +7,7 @@ and Agile development. Experienced OOP developer that follows well-known Softwar
 
 - **LinkedIn**: [https://www.linkedin.com/in/ruth-ulloa](https://www.linkedin.com/in/ruth-ulloa)
 - **GitHub**: [https://github.com/RuthUlloa](https://github.com/RuthUlloa)
-- **Blog**: [https://ruthmub06.medium.com/](https://medium.com/@ruthmub06)
+- **Blog**: [https://ruthmub06.medium.com](https://medium.com/@ruthmub06)
 - **Web**: [https://ruthulloa.github.io](https://ruthulloa.github.io)
 - **Email**: ruthmub06@gmail.com
 - **Phone**: +50686068714
