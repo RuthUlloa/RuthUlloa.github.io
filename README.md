@@ -63,6 +63,7 @@ Overall level: **B2**, Overal score: **123**
 ### **Technical Mentor, Ideas en Acción**, San José, Costa Rica, September 2020 - October 2020
 
 - Coach and mentor adolescent women to develop a mobile application prototype for an Innovation Competition. The solution got awarded second place.
+
 ### **Staff coordinator, Científicas de Datos Costa Rica**,  San José, Costa Rica, July 2020 - Present  
 
 - Research machine learning technologies and solutions to contribute to the blog of the first community of women committed to the development of female human talent in Data Science in Costa Rica.  
