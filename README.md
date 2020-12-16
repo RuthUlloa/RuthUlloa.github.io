@@ -29,6 +29,7 @@ system.
 - Design and implement the multi-threading APIs used by the management-plane
 processes, which help reducing defects introduced by developers as the logic to
 spawn, join, and detach threads is better controlled.
+- Design and implement an API for dynamic monitoring Database columns on-demand, reducing memory consumption.
 - Developed a common infrastructure for binary logging.
 - Developed automated regression and integration tests that are part of
 ArubaOS-CX CIT platform.  
@@ -42,10 +43,11 @@ root-cause software bugs.
 #### SCRUM Master
 
 - Key contributor forming successfully a new team. Helping in critical phases as forming and storming, as result, the team was able to performance and produce quality results in a few weeks.
+- Implement new workflows to streamline the process, which leads to adding new teammates with a minimal learning curve.
 
 ## Skills
 
-- **Technical:** C, Python, Docker, Open vSwitch Database (OVSDB), JSON-RPC, CMock, Ceedling, Yocto, Gerrit, Linux O.S., GDB, Valgrind.
+- **Technical:** C, Python, GOlang, Docker, Open vSwitch Database (OVSDB), JSON-RPC, CMock, Ceedling, Yocto, Gerrit, Linux O.S., GDB, Valgrind.
 - **Languages:** Spanish (Native proficiency); English(Professional-working profiency)  
 
 ## Certifications
@@ -58,11 +60,10 @@ Overall level: **B2**, Overal score: **123**
 
 ## Activities/Volunteering
 
-### **Technical Mentor, Ideas en Acción**, San José, Costa Rica, September 2020 - Present
+### **Technical Mentor, Ideas en Acción**, San José, Costa Rica, September 2020 - October 2020
 
-- Guide, monitor and mentor adolescent women to develop a mobile application prototipe that helps to solve the [Sustainable Development Goal 8, Decent Work and Economic Growth.](https://en.wikipedia.org/wiki/Sustainable_Development_Goal_8)
-
-### **Staff member, Científicas de Datos Costa Rica**,  San José, Costa Rica, July 2020 - Present  
+- Coach and mentor adolescent women to develop a mobile application prototype for an Innovation Competition. The solution got awarded second place.
+### **Staff coordinator, Científicas de Datos Costa Rica**,  San José, Costa Rica, July 2020 - Present  
 
 - Research machine learning technologies and solutions to contribute to the blog of the first community of women committed to the development of female human talent in Data Science in Costa Rica.  
 - Key contribuitor to design the data analisys tool of the community members, in order to recolect, clean, analyze and visualize the information.
