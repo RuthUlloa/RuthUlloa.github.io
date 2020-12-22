@@ -67,7 +67,7 @@ Overall level: **B2**, Overal score: **123**
 ### **Staff coordinator, Científicas de Datos Costa Rica**,  San José, Costa Rica, July 2020 - Present  
 
 - Research machine learning technologies and solutions to contribute to the blog of the first community of women committed to the development of female human talent in Data Science in Costa Rica.  
-- Key contribuitor to design the data analisys tool of the community members, in order to recolect, clean, analyze and visualize the information.
+- Key contributor to design the data analysis tool of the community members, in order to recollect, clean, analyze, and visualize the information.
 
 ### **Teaching assistant, Tecnológico de Costa Rica**, San José, Costa Rica, July 2018 - June 2019  
 
