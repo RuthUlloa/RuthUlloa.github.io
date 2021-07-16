@@ -7,7 +7,7 @@ and Agile development. Experienced OOP developer that follows well-known Softwar
 
 - **LinkedIn**: [https://www.linkedin.com/in/ruth-ulloa](https://www.linkedin.com/in/ruth-ulloa)
 - **GitHub**: [https://github.com/RuthUlloa](https://github.com/RuthUlloa)
-- **Blog**: [https://ruthmub06.medium.com](https://medium.com/@ruthmub06)
+- **Blog**: [https://medium.com/@ruthmub06](https://medium.com/@ruthmub06)
 - **Web**: [https://ruthulloa.github.io](https://ruthulloa.github.io)
 - **Email**: ruthmub06@gmail.com
 - **Phone**: +50686068714
@@ -16,6 +16,8 @@ and Agile development. Experienced OOP developer that follows well-known Softwar
 
 - Instituto Tecnológico de Costa Rica (TEC), San José. September 2019  
 [Bachelor of Computer Engineering](https://www.tec.ac.cr/en/carreras/bachelors-degree-computer-engineering), GPA 3.2/4.0
+- Instituto Tecnológico de Costa Rica (TEC), San José. September 2019  
+[Data Science Program](https://www.tec.ac.cr/fundatec/programa-ciencias-datos-escuela-computacion), in progress
 
 ## Experience
 
@@ -23,6 +25,12 @@ and Agile development. Experienced OOP developer that follows well-known Softwar
 
 Software Engineer for [ArubaOS-CX](https://www.arubanetworks.com/products/networking/switches/), a modern database-driven network operating
 system.  
+
+#### Embedded Software Engineer II
+
+- Improve a metrics mechanism for obtaining automated statistics from a pipeline model, which significantly reduce mean time to
+root-cause software bugs.
+- Design and implement an infrastructure to package artifacts from past firmware version on the current version, which is essential to support backwards compatibility in the ArubaOS-CX system.
 
 #### Embedded Software Engineer I
 
@@ -52,7 +60,6 @@ root-cause software bugs.
 
 ## Certifications
 
-- [Machine learning](https://www.coursera.org/learn/machine-learning), Standford University, In progress
 - [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/account/accomplishments/verify/X3VCUEV54UYY), The University of Chicago, September 2020
 - [Introduction to Psychology](https://www.coursera.org/account/accomplishments/verify/C8RV97NGDR8S), Yale University, August 2020
 - [Oxford Test of English](https://elt.oup.com/feature/global/oxford_test_of_english/?cc=gt&selLanguage=en), University of Oxford, August 2019  
@@ -62,20 +69,12 @@ Overall level: **B2**, Overal score: **123**
 
 ### **Technical Mentor, Ideas en Acción**, San José, Costa Rica, September 2020 - October 2020
 
-- Coach and mentor adolescent women to develop a mobile application prototype for an Innovation Competition. The solution got awarded second place.
+- Coach and mentor adolescent women to develop a mobile application prototype for an Innovation Competition. The solution got awarded the second place.
 ### **Staff coordinator, Científicas de Datos Costa Rica**,  San José, Costa Rica, July 2020 - Present  
 
 - Research machine learning technologies and solutions to contribute to the blog of the first community of women committed to the development of female human talent in Data Science in Costa Rica.  
 - Key contribuitor to design the data analisys tool of the community members, in order to recolect, clean, analyze and visualize the information.
 
-### **Teaching assistant, Tecnológico de Costa Rica**, San José, Costa Rica, July 2018 - June 2019  
-
-Co-write project statements, evaluate, monitor, and mentor student academic
-progress in the following courses:
-
-- Object-Oriented Programming (Java)
-- Data Structures (C++)
-- Programming Introduction (Python)
 
 ## Honors and Awards
 
